@@ -1,39 +1,82 @@
 {
   "version": 2.0,
   "questions": [
+    
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. In current clamp techniques, records ____________by injecting/applying _______ as input to the cell. ? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Membrane potential and current",
+        "b": "Current and membrane potential",
+        "c": "None of the above",
+        "d": "All the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+  
+
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Current clamp technique is mainly used to study: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ion channel properties",
+        "b": "Membrane properties",
+        "c": "Effect of drugs",
+        "d": "None of the above"
+       
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "3. Which of the following is maintained while doing current clamp ? ",
+      "answers": {
+        "a": "Injected current",
+        "b": "Membrane voltage level",
+        "c": "Conductance of sodium ion channel",
+        "d": "All of the above"
       },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+
+    {
+      "question": "4. Membrane voltage is usually measured in: ",
+      "answers": {
+        "a": "kilo Volts",
+        "b": "Volts",
+        "c": "Pico Ampere",
+        "d": "Milli Volts"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "5. Regenerating electrical wave that propagates from the cell body down to the axon are called: ",
+      "answers": {
+        "a": "Sodium current",
+        "b": "Membrane current",
+        "c": "Action potential",
+        "d": "Potassium current"
+      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
+
+
+
   ]
 }
