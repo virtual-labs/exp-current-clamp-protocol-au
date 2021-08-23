@@ -1,1 +1,1 @@
-## Experiment name
+## Current Clamp protocol
